@@ -5,4 +5,4 @@ In this repository, you will find the implementation of the same algorithm for m
 - [Java Matrix Multiplication Repository](https://github.com/raquelaq/JavaMatrixMultiplication.git)
 - [Python Matrix Multiplication Repository](https://github.com/raquelaq/PythonMatrixMultiplication.git)
 
-Additionally, there is a scientific paper detailing the methodology and experiments conducted throughout this study, providing further insight into the procedures and results obtained.
+Additionally, there is a scientific paper detailing the methodology and experiments conducted throughout this study, providing further insight into the procedures and results obtained. You can find it [here](Benchmarking_paper.pdf).
